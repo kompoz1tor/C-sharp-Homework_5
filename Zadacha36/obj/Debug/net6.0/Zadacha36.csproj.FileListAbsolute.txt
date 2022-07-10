@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\bin\Debug\net6.0\Zadacha36.exe
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\bin\Debug\net6.0\Zadacha36.deps.json
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\bin\Debug\net6.0\Zadacha36.runtimeconfig.json
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\bin\Debug\net6.0\Zadacha36.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\bin\Debug\net6.0\Zadacha36.pdb
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.AssemblyInfo.cs
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\refint\Zadacha36.dll
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.pdb
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\Zadacha36.genruntimeconfig.cache
+C:\Users\user\Desktop\C# семинары\С# ДЗ к Семинару № 5\Zadacha36\obj\Debug\net6.0\ref\Zadacha36.dll
